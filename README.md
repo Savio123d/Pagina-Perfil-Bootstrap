@@ -47,11 +47,3 @@ Para visualizar o projeto, basta seguir os passos abaixo:
 3.  Abra o arquivo `index.html` em seu navegador de preferência.
 
 Não há necessidade de instalar dependências, pois o Bootstrap está sendo consumido via CDN.
-
-## 💡 Exemplo de Uso
-
-A página exibe um perfil profissional conforme a imagem abaixo:
-
-*(Você pode adicionar um print da sua página aqui para ilustrar)*
-
-![Exemplo da Página de Perfil](https://i.imgur.com/URL-DA-SUA-IMAGEM.png)
